@@ -22,53 +22,53 @@ let updateTimer;
 
 const music_list = [
     {
-        img : 'images/karharmaidan.jfif',
+        img : 'karharmaidan.jfif',
         name : 'Kar Har maidan Fateh',
         artist : 'Shreya Ghoshal , Sukhwinder Singh',
-        music : 'music/Kar Har maidan Fateh - sanju.mp3'
+        music : 'Kar Har maidan Fateh - sanju.mp3'
     },
     {
-        img : 'images/aashayein.jfif',
+        img : 'aashayein.jfif',
         name : 'Aashayein',
         artist : 'Iqbal',
         music : 'music/Aashayein - Iqbal.mp3'
     },
     {
-        img : 'images/terimitti.jfif',
+        img : 'terimitti.jfif',
         name : 'Teri Mitti',
         artist : 'B Praak',
-        music : 'music/Teri Mitti Me Mil Java - B Praak.mp3'
+        music : 'Teri Mitti Me Mil Java - B Praak.mp3'
     },
     {
-        img : 'images/namonamo.jfif',
+        img : 'namonamo.jfif',
         name : 'Namo Namo',
         artist : 'Amit trivedi',
-        music : 'music/Namo Namo Ji Shankara.mp3'
+        music : 'Namo Namo Ji Shankara.mp3'
     },
     {
-        img : 'images/faded.png',
+        img : 'faded.png',
         name : 'Faded',
         artist : 'Alan Walker',
-        music : 'music/Faded.mp3'
+        music : 'Faded.mp3'
     },
    {
-        img : 'images/stay.png',
+        img : 'stay.png',
         name : 'Stay',
         artist : 'The Kid LAROI, Justin Bieber',
-        music : 'music/stay.mp3'
+        music : 'stay.mp3'
     },
     
     {
-        img : 'images/fallingdown.jpg',
+        img : 'fallingdown.jpg',
         name : 'Falling Down',
         artist : 'Wid Cards',
-        music : 'music/fallingdown.mp3'
+        music : 'fallingdown.mp3'
     },
     {
-        img : 'images/ratherbe.jpg',
+        img : 'ratherbe.jpg',
         name : 'Rather Be',
         artist : 'Clean Bandit',
-        music : 'music/Rather Be.mp3'
+        music : 'Rather Be.mp3'
     }
 ];
 
