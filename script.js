@@ -31,7 +31,7 @@ const music_list = [
         img : 'aashayein.jfif',
         name : 'Aashayein',
         artist : 'Iqbal',
-        music : 'music/Aashayein - Iqbal.mp3'
+        music : 'Aashayein - Iqbal.mp3'
     },
     {
         img : 'terimitti.jfif',
